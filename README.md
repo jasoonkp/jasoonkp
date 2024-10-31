@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jason Prakash @jasoonkp
 - 👀 I’m interested in machine learning in data analysis. 
 - 🌱 I’m currently mastering C++
-- 💞️ I’m looking to collaborate on anything lmao
 - 📫 Add me on discord --  jasonnkp
 - 😄 Pronouns: he / him
 - ⚡ I love hooopin 🏀
